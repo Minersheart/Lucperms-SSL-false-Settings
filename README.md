@@ -1,5 +1,8 @@
-# Lucperms-SSL-false-Settings
+# Luckperms-SSL-false-Settings
+
+
 How to setup the config.yml
+
 
 
 If you get this Error
